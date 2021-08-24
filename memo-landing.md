@@ -14,7 +14,9 @@
 # 2. サイト構成
 
 ## コンテンツ
+
 ### メイン
+
 What is DFGC
 Products　3つ
 Governance
