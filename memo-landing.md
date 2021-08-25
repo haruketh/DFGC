@@ -8,32 +8,28 @@
  4. コピー
  5. Contact
 
-# 1. テーマ
+## 1. テーマ
 
 
-# 2. サイト構成
+## 2. サイト構成
 
-## コンテンツ
+### メインコンテンツ
 
-### メイン
-
-What is DFGC
-Products　3つ
-Governance
+- What is DFGC
+- Products　3つ
+- Governance
 	- Gov Forum★★
 	- 投票ページ★★
 	- About　→Aboutに。
-Developer
+- Developer
 	- Github　→どのリポジトリのどのREADMEを見せたい？★★
 	- Docs
 	- 募集★★
-Backed by　または　エコシステム（勝手に感は出る）
-Team（無しでも）
-連絡先（フッター）
+- Backed by　または　エコシステム（勝手に感は出る）
+- Team（無しでも）
+- 連絡先（フッター）
 
-### サブ
-
-#### About
+#### サブコンテンツ（Aboutにまとめる）
 - スローガン的な
 - TXJPトークン　→Docs ★★
 	- 目的
@@ -58,6 +54,7 @@ Team（無しでも）
 
 
 # 3. ブランドアセット
+
 
 
 # 4. コピー
