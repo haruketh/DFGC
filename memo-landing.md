@@ -88,16 +88,16 @@
 ## 4. コピー
 
 詳しくはサンプルサイトを見ながら。
-	1. What is DFGC　スローガン、コミュニティ説明とも
-	2. Feature 3〜6個　タイトル、説明
-		1. Dapps開発＆ローンチ
-		2. ガバナンス
-		3. コミュニティサポート
-		4. など
-	3. Productsの説明
-		1. Yamato
-		2. Yorozu(仮)
-		3. soon..
+1. What is DFGC　スローガン、コミュニティ説明とも
+2. Feature 3〜6個　タイトル、説明
+	1. Dapps開発＆ローンチ
+	2. ガバナンス
+	3. コミュニティサポート
+	4. など
+3. Productsの説明
+	1. Yamato
+	2. Yorozu(仮)
+	3. soon..
 
 ## 5. Contact
 
