@@ -2,22 +2,31 @@
 
 ## フェーズ1/2
 - フェーズ1
-	- いち早くコミュニティの実在性を公開する場所を作る。
+	- いち早くコミュニティの実在性を示す場所を作る。
 	- 最小限のコンテンツとする
-	- 英語版は用意できればする。（CoinGecko等の外部サービスの審査を気にしたい）
+	- 英語版はできればフェーズ1から用意する。（CoinGecko等の外部サービスの審査を気にしたい）
 - フェーズ2
-	- コミュニティのアイデンティティを備えること。
+	- コミュニティのアイデンティティを表すカラーにカスタマイズする。
 	- メンテナンス性を上げ、コミュニティメンバーがコントリビュートするハードルを下げる。
 
 ## 1. テーマ
 
-- フェーズ1　Hugo
-	- [Universal](https://themes.gohugo.io/themes/hugo-universal-theme/)
-	- [Meghna Hugo](https://themes.gohugo.io/themes/meghna-hugo/)
-	- [Hero](https://themes.gohugo.io/themes/hugo-hero-theme/)
-	- [Raditian Free Hugo Theme](https://themes.gohugo.io/themes/raditian-free-hugo-theme/)
-- フェーズ2　Hugo, Gatsby, Next.js あたり
-	- 同じテーマに拘らず、上記の目的に合致することを重視する
+### フェーズ1　Hugo
+1. [Universal](https://themes.gohugo.io/themes/hugo-universal-theme/)
+- ローカル。
+2. [Meghna Hugo](https://themes.gohugo.io/themes/meghna-hugo/)
+- Foresty + Netlify + Github で自動化。
+- Forestyでニュースリリースは誰でも（支援すれば）作成できるUIに。
+- Netlifyはプレビュー生成マシンとして。Github PR時に役立つ。
+- ニュースリリースを除くホームページ部分はほぼ手作業にならざるを得ない。
+- 日本語、英語の多言語は対応済み。
+3. [DIY](https://themes.stackbit.com/demos/diy/)
+- Stackbitで構築。Headless CMSも
+4. https://jamstackthemes.dev/demo/theme/hugo-landing-page/
+5. など
+
+### フェーズ2
+1. 同じテーマに拘らず、上記の目的に合致することを重視する
 
 ## 2. サイト構成
 
