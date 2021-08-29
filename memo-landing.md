@@ -12,11 +12,9 @@
 ## 1. テーマ
 
 ### フェーズ1　Hugo
-1. [Universal](https://themes.gohugo.io/themes/hugo-universal-theme/)
-- [Demo](https://haruketh.github.io/universal/)
+1. [Universal](https://themes.gohugo.io/themes/hugo-universal-theme/) （[Demo](https://defigeek-proto1.netlify.app)）
 - ローカルで構築。多言語にはしていない。
-2. [Meghna Hugo](https://themes.gohugo.io/themes/meghna-hugo/)
-- [Demo](https://defigeek-proto2.netlify.app)
+2. [Meghna Hugo](https://themes.gohugo.io/themes/meghna-hugo/)　（[Demo](https://defigeek-proto2.netlify.app)）
 - Foresty + Netlify + Github で自動化。
 - Forestyでニュースリリースは誰でも（支援すれば）作成できるUIに。
 - Netlifyはプレビュー生成マシンとして。Github PR時に役立つ。
