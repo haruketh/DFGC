@@ -71,7 +71,7 @@ EVOLUTION
 
 ### 7. フッターテキスト（ロゴ）
 - 小さく●DFGC
-- フォントはここもFutura
+- フォントはHelvetica Neue
 
 
 ### 8. プラスアルファ
