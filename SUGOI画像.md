@@ -81,9 +81,10 @@ EVOLUTION
 
 ### 完成イメージ
 ![](/blob/waves1-sample-stage1.png)
-![](/blob/waves1-sample-stage2.png)
+![](/blob/waves1-sample-stage2b.png)
+![](/blob/waves1-sample-stage4.png)
 
-色が変わってないけど。。
+あくまでイメージ。色は適当。svgではなくpng。
 
 ## ⚠️PoCでは
 ここまで。
