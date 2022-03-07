@@ -42,7 +42,7 @@ EVOLUTION
 
 ### 2. センター画像
 人類の進化 (human evolution) の画像。ステージアップ感がわかり且つsvgでサイズが重たくならなそうなものということで。
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Human_evolution.svg/600px-Human_evolution.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/6/69/Human_evolution.svg)
 - 白
 - 5段階（猿〜類人猿〜ヒト〜web3的なヒト）
 - センター放射も考える
