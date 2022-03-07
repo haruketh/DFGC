@@ -52,6 +52,8 @@ EVOLUTION
 - ベースカラーから自動生成
 
 ![](/blob/low-poly1.svg)
+![](/blob/mesh-grad1.svg)
+![](/blob/waves1.svg)
 
 ### 4. 配色
 ステージごとに6段階。ステージ1で色が変化し、ステージ2でリセットされる。
