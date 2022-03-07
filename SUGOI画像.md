@@ -51,6 +51,8 @@ EVOLUTION
 - mesh gradientか2D polygon
 - ベースカラーから自動生成
 
+![](/blob/low-poly1.svg)
+
 ### 4. 配色
 ステージごとに6段階。ステージ1で色が変化し、ステージ2でリセットされる。
 - RGBの数値でカウントアップ
