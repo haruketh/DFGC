@@ -83,6 +83,8 @@ EVOLUTION
 ![](/blob/waves1-sample-stage1.png)
 ![](/blob/waves1-sample-stage2.png)
 
+色が変わってないけど。。
+
 ## ⚠️PoCでは
 ここまで。
 - EOAアドレスごとのスコアを出力
